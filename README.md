@@ -2,6 +2,7 @@
 
 - 👷 I’m currently working on [Odoo](github.com/odoo/odoo) Addons.
 - ⏲️ My background is in Excel, CAD and Engineering Dataworkflows. 
+- 🥇 I also like working With Docker, Ansible, Bash and other Python tools. 
 - 🌱 Most of the stuff here is for learning purposes.  
 
 
