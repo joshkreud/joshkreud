@@ -6,5 +6,4 @@
 - 🌱 Most of the stuff here is for learning purposes.  
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshkreud)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joshkreud&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
